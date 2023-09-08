@@ -16,4 +16,4 @@ See the [releases](https://github.com/ElMostafaIdrassi/TPMUtilities/releases) se
 
 # Copyright
 
-© 2022 El Mostafa Idrassi
+© 2022-2023 El Mostafa Idrassi
